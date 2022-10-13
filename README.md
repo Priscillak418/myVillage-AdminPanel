@@ -12,5 +12,5 @@ Currently this is done through a developer which is both time consuming and not 
 
 ### Solution
 Development of an administrator interface so that:
-● Anyone can perform the above tasks of user management and content control.
-● We gain full control of what is posted on the platform.
+* Anyone can perform the above tasks of user management and content control.
+* We gain full control of what is posted on the platform.
